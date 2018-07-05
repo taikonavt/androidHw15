@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidHw15</string>
+    <string name="frag1_text">Фрагмент1</string>
+    <string name="frag2_text">Фрагмент2</string>
+</resources>
